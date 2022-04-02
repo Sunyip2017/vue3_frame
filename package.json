@@ -1,0 +1,26 @@
+{
+  "name": "my-vue-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^8.2.3",
+    "axios": "^0.26.1",
+    "element-plus": "^2.1.7",
+    "pinia": "^2.0.13",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^9.8.8",
+    "mockjs": "^1.1.0",
+    "postcss": "^7.0.39",
+    "vite": "^2.6.4",
+    "vite-plugin-windicss": "^1.8.3",
+    "windicss": "^3.5.1"
+  }
+}
